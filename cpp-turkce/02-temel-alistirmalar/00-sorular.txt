@@ -1,0 +1,33 @@
+C++ programlama alıştırmaları
+Her alıştırmada:
++ Fonksiyonu tasarlayın.
++ Fonksiyonu C++ ile gerçekleştirin.
++ Otomatik test oluşturun.
+
+Notlar:
++ Bazı alıştırmalarda daha önce yazılan fonksiyonlar kullanılabilir.
++ Hesaplama fonksiyonları kullanıcıyla doğrudan etkileşmemelidir; giriş ve çıkış main() içinde yapılmalıdır.
++ “Değer döndürmek” her zaman yalnızca return ifadesi anlamına gelmez (örneğin referans veya dizi parametresi değiştirilebilir).
+
+TEMEL ALIŞTIRMALAR:
+1. Tam sayıyı alıp bir sonraki tam sayıyı döndürün.
+2. Bir sayının faktöriyelini hesaplayın.
+3. 1'den verilen tam sayıya kadar toplamı hesaplayın.
+4. 1'den verilen sayıya kadar çarpımı hesaplayın.
+5. Kullanıcı pozitif bir sayı girinceye kadar sayı isteyen fonksiyonu yazın.
+6. Bir yılın artık yıl olup olmadığını denetleyin.
+7. Bir sayının asal olup olmadığını denetleyin.
+8. Bir sayının çift olup olmadığını denetleyin.
+9. Bir sayının pozitif olup olmadığını denetleyin.
+
+Soru → Kaynak dosya:
+1 → 01-sonraki-sayi.cpp
+2 → 02-faktoriyel.cpp
+3 → 03-toplama.cpp
+4 → 08-carpma.cpp
+5 → 04-pozitif-sayi-oku.cpp
+6 → 09-artik-yil-mi.cpp
+7 → 05-asal-mi.cpp
+8 → 10-cift-mi.cpp
+9 → 11-pozitif-mi.cpp
+Ek alıştırmalar: 06-pozitifleri-say.cpp, 07-asallari-say.cpp

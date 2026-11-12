@@ -1,0 +1,9 @@
+C++ — İLERİ ALIŞTIRMALAR
+
+Bu klasördeki her alıştırmada fonksiyon tasarımı, gerçekleştirme ve otomatik test hedeflenir.
+
+01-kucukten-buyuge-dizi.cpp — İki tam sayı arasındaki değerleri küçükten büyüğe doğru diziye yerleştirin.
+02-fibonacci-dizisi.cpp — Fibonacci dizisinin ilk n terimini bir diziye doldurun.
+03-diziyi-sirala.cpp — Dizi elemanlarını küçükten büyüğe sıralayın.
+04-armstrong-sayilari.cpp — Verilen doğal sayının Armstrong sayısı olup olmadığını bulun.
+05-sayi-degistir.cpp — Dizideki aranan sayının bütün tekrarlarını başka bir sayıyla değiştirin.
